@@ -133,11 +133,11 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFileStorage'
 
 # myaccount.goggle.com\lesssecureapps
 # Email Settings
-EMAIL_HOST = "localhost"  # smtp.gmail.com
-EMAIL_PORT = '1025'        # 587
-EMAIL_HOST_USER = ''        # mail
-EMAIL_HOST_PASSWORD = ''    # passowrd
-EMAIL_USE_TLS = False       # True
+EMAIL_HOST = "smtp.gmail.com"
+EMAIL_PORT = 587
+EMAIL_HOST_USER = 'awuyadanielz@gmail.com'
+EMAIL_HOST_PASSWORD = '**********************************'
+EMAIL_USE_TLS = True       # True
 # EMAIL_USE_SSL = False
 
 # Heroku Settings
