@@ -15,7 +15,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/awuyadaniel/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
+            <state relative-caret-position="2176">
               <caret line="130" column="78" selection-start-line="130" selection-start-column="78" selection-end-line="130" selection-end-column="78" />
               <folding>
                 <element signature="e#312#336#0" expanded="true" />
@@ -28,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/resume/templates/resume/welcome.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="72" lean-forward="true" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
+              <caret line="11" column="72" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -36,7 +36,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resume/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="119">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -48,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resume/templates/resume/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="873" column="54" selection-start-line="873" selection-start-column="54" selection-end-line="873" selection-end-column="54" />
+            <state relative-caret-position="136">
+              <caret line="231" column="140" selection-start-line="231" selection-start-column="140" selection-end-line="231" selection-end-column="140" />
             </state>
           </provider>
         </entry>
@@ -88,6 +88,7 @@
       <find>w</find>
       <find>whats</find>
       <find>mail</find>
+      <find>web de</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -240,6 +241,7 @@
       <workItem from="1617921437196" duration="1002000" />
       <workItem from="1617950034719" duration="89000" />
       <workItem from="1618038433015" duration="18981000" />
+      <workItem from="1618079874876" duration="67000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1618040916569</created>
@@ -343,13 +345,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65327000" />
+    <option name="totallyTimeSpent" value="65394000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2753404" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27987897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -491,19 +493,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/awuyadaniel/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
+        <state relative-caret-position="2176">
           <caret line="130" column="78" selection-start-line="130" selection-start-column="78" selection-end-line="130" selection-end-column="78" />
           <folding>
             <element signature="e#312#336#0" expanded="true" />
@@ -514,14 +506,24 @@
     <entry file="file://$PROJECT_DIR$/resume/templates/resume/welcome.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="72" lean-forward="true" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
+          <caret line="11" column="72" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resume/templates/resume/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="873" column="54" selection-start-line="873" selection-start-column="54" selection-end-line="873" selection-end-column="54" />
+        <state relative-caret-position="136">
+          <caret line="231" column="140" selection-start-line="231" selection-start-column="140" selection-end-line="231" selection-end-column="140" />
         </state>
       </provider>
     </entry>
