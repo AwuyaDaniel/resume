@@ -15,7 +15,7 @@ def index(request):
 
         # Send an Email
         send_mail(
-            'from: ' + name + "About: " + subject,  # Subject
+            subject,  # Subject
             message,  # Message
             email,  # From mail
             ['awuyadanielz@gmail.com'],  # To Mail
