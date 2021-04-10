@@ -55,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
+            <state relative-caret-position="135">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
             </state>
           </provider>
         </entry>
@@ -204,7 +204,7 @@
       <workItem from="1617864371155" duration="5789000" />
       <workItem from="1617921437196" duration="1002000" />
       <workItem from="1617950034719" duration="89000" />
-      <workItem from="1618038433015" duration="5198000" />
+      <workItem from="1618038433015" duration="5807000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1618040916569</created>
@@ -248,17 +248,31 @@
       <option name="project" value="LOCAL" />
       <updated>1618043690354</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="requirement">
+      <created>1618043930748</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618043930748</updated>
+    </task>
+    <task id="LOCAL-00008" summary="requirement">
+      <created>1618044206894</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1618044206894</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51544000" />
+    <option name="totallyTimeSpent" value="52153000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2753404" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2753404" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -272,7 +286,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32872504" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32872504" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -289,7 +303,8 @@
     <MESSAGE value="second commit" />
     <MESSAGE value="runtime" />
     <MESSAGE value="runtime and requirement" />
-    <option name="LAST_COMMIT_MESSAGE" value="runtime and requirement" />
+    <MESSAGE value="requirement" />
+    <option name="LAST_COMMIT_MESSAGE" value="requirement" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Downloads/Compressed/breezycvhtml-13/BreezyCV - Responsive vCard Template/BreezyCV - Responsive vCard Template/Dark Full Width/3/index.html">
@@ -390,8 +405,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="135">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
         </state>
       </provider>
     </entry>
