@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fdb193e-1f6a-4c5d-9ed8-5384ac894a4f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/awuyadaniel/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/awuyadaniel/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/templates/resume/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/templates/resume/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/awuyadaniel/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="135" column="61" selection-start-line="135" selection-start-column="61" selection-end-line="135" selection-end-column="61" />
+            <state relative-caret-position="355">
+              <caret line="130" column="78" selection-start-line="130" selection-start-column="78" selection-end-line="130" selection-end-column="78" />
               <folding>
                 <element signature="e#312#336#0" expanded="true" />
               </folding>
@@ -25,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resume/templates/resume/welcome.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="204">
+              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -37,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resume/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -49,20 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resume/templates/resume/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-18937">
-              <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/awuyadaniel/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-              <folding>
-                <element signature="e#635#667#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="72">
+              <caret line="1137" column="80" selection-start-line="1137" selection-start-column="80" selection-end-line="1137" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -92,6 +79,15 @@
       <find>tosin</find>
       <find>arkin</find>
       <find>mar</find>
+      <find>download</find>
+      <find>button</find>
+      <find>conta</find>
+      <find>wha</find>
+      <find>face</find>
+      <find>col</find>
+      <find>w</find>
+      <find>whats</find>
+      <find>mail</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -109,8 +105,10 @@
         <option value="$PROJECT_DIR$/runtime.txt" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/resume/views.py" />
-        <option value="$PROJECT_DIR$/resume/templates/resume/index.html" />
         <option value="$PROJECT_DIR$/awuyadaniel/settings.py" />
+        <option value="$PROJECT_DIR$/static/resume/css/main.css" />
+        <option value="$PROJECT_DIR$/static/resume/css/fonts/fontawesome-free-5.12.1-web/css/svg-with-js.css" />
+        <option value="$PROJECT_DIR$/resume/templates/resume/index.html" />
       </list>
     </option>
   </component>
@@ -154,6 +152,13 @@
               <item name="awuyadaniel" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="resume" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="awuyadaniel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="awuyadaniel" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="resume" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="awuyadaniel" type="b2602c69:ProjectViewProjectNode" />
@@ -234,7 +239,7 @@
       <workItem from="1617864371155" duration="5789000" />
       <workItem from="1617921437196" duration="1002000" />
       <workItem from="1617950034719" duration="89000" />
-      <workItem from="1618038433015" duration="12605000" />
+      <workItem from="1618038433015" duration="18396000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1618040916569</created>
@@ -327,11 +332,18 @@
       <option name="project" value="LOCAL" />
       <updated>1618051637549</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="reconstruction">
+      <created>1618060290718</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1618060290718</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58951000" />
+    <option name="totallyTimeSpent" value="64742000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -370,7 +382,8 @@
     <MESSAGE value="runtime and requirement" />
     <MESSAGE value="requirement" />
     <MESSAGE value="mail" />
-    <option name="LAST_COMMIT_MESSAGE" value="mail" />
+    <MESSAGE value="reconstruction" />
+    <option name="LAST_COMMIT_MESSAGE" value="reconstruction" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Downloads/Compressed/breezycvhtml-13/BreezyCV - Responsive vCard Template/BreezyCV - Responsive vCard Template/Dark Full Width/3/index.html">
@@ -387,13 +400,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/static/resume/contact_form/contact_form.php" />
-    <entry file="file://$PROJECT_DIR$/static/resume/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="1460" column="4" selection-start-line="1460" selection-start-column="1" selection-end-line="1460" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resume/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -447,37 +453,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume/templates/resume/welcome.html">
+    <entry file="file://$PROJECT_DIR$/static/resume/img/ice.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/resume/css/fonts/fontawesome-free-5.12.1-web/css/fontawesome.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="833">
+          <caret line="2495" column="8" selection-start-line="2495" selection-start-column="4" selection-end-line="2495" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/resume/css/fonts/fontawesome-free-5.12.1-web/css/regular.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/resume/css/bootstrap-grid.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/resume/css/fonts/linear-icons-font/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/resume/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="342" column="7" selection-start-line="342" selection-start-column="4" selection-end-line="342" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/resume/css/fonts/fontawesome-free-5.12.1-web/css/solid.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/resume/css/fonts/fontawesome-free-5.12.1-web/css/svg-with-js.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1411">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/templates/resume/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="1137" column="80" selection-start-line="1137" selection-start-column="80" selection-end-line="1137" selection-end-column="80" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resume/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume/templates/resume/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18937">
-          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/awuyadaniel/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="135" column="61" selection-start-line="135" selection-start-column="61" selection-end-line="135" selection-end-column="61" />
+        <state relative-caret-position="355">
+          <caret line="130" column="78" selection-start-line="130" selection-start-column="78" selection-end-line="130" selection-end-column="78" />
           <folding>
             <element signature="e#312#336#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/templates/resume/welcome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
         </state>
       </provider>
     </entry>
