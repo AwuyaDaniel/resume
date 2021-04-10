@@ -12,14 +12,14 @@ def index(request):
         subject = request.POST['subject']
         message = request.POST['message']
         context = {'name': name}
-        #
-        # # Send an Email
-        # send_mail(
-        #     'from: ' + name + "About: " + subject,  # Subject
-        #     message,  # Message
-        #     email,  # From mail
-        #     ['awuyadanielz@gmail.com'],  # To Mail
-        # )
+
+        # Send an Email
+        send_mail(
+            'from: ' + name + "About: " + subject,  # Subject
+            message,  # Message
+            email,  # From mail
+            ['awuyadanielz@gmail.com'],  # To Mail
+        )
 
         return render(request, 'resume/index.html', context)
     else:
