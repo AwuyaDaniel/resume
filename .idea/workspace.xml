@@ -22,16 +22,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fdb193e-1f6a-4c5d-9ed8-5384ac894a4f" name="Default Changelist" comment="reconstruction2">
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="2fdb193e-1f6a-4c5d-9ed8-5384ac894a4f" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/vercel_app/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vercel_app/wsgi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/awuyadaniel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/awuyadaniel.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/awuyadaniel/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/awuyadaniel/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/templates/resume/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/templates/resume/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/resume/img/Awuya_Daniel_resume.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,21 +51,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
   <component name="ProjectId" id="27t3UX5UF8rFMHaabgFD2hChVdf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Django Server.awuyadaniel">
+  <component name="RunManager" selected="Unknown.awuyadaniel1156150096">
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="awuyadaniel" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,7 +124,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -150,6 +155,8 @@
       <workItem from="1703167264778" duration="164000" />
       <workItem from="1703177875565" duration="5624000" />
       <workItem from="1703520789125" duration="77000" />
+      <workItem from="1703883916610" duration="571000" />
+      <workItem from="1703887425898" duration="1166000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1618040916569</created>
@@ -263,7 +270,28 @@
       <option name="project" value="LOCAL" />
       <updated>1650130128581</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="reconstruction2">
+      <created>1703883970764</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1703883970764</updated>
+    </task>
+    <task id="LOCAL-00018" summary="reconstruction2">
+      <created>1703930069830</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1703930069830</updated>
+    </task>
+    <task id="LOCAL-00019" summary="update">
+      <created>1703940933187</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1703940933187</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,7 +307,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
@@ -290,35 +317,38 @@
     <MESSAGE value="mail" />
     <MESSAGE value="reconstruction" />
     <MESSAGE value="reconstruction2" />
-    <option name="LAST_COMMIT_MESSAGE" value="reconstruction2" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="255" key="GridCell.Tab.0.bottom" timestamp="1703520866867">
-      <screen x="0" y="25" width="1680" height="959" />
+    <state width="1638" height="253" key="GridCell.Tab.0.bottom" timestamp="1703941008649">
+      <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state width="1638" height="254" key="GridCell.Tab.0.bottom/0.25.1680.954@0.25.1680.954" timestamp="1703269365245" />
-    <state width="1638" height="254" key="GridCell.Tab.0.bottom/0.25.1680.956@0.25.1680.956" timestamp="1703205624162" />
+    <state width="1638" height="253" key="GridCell.Tab.0.bottom/0.25.1680.954@0.25.1680.954" timestamp="1703888154327" />
+    <state width="1638" height="253" key="GridCell.Tab.0.bottom/0.25.1680.956@0.25.1680.956" timestamp="1703941008649" />
     <state width="1638" height="255" key="GridCell.Tab.0.bottom/0.25.1680.959@0.25.1680.959" timestamp="1703520866867" />
-    <state width="1638" height="255" key="GridCell.Tab.0.center" timestamp="1703520866865">
-      <screen x="0" y="25" width="1680" height="959" />
+    <state width="1638" height="253" key="GridCell.Tab.0.center" timestamp="1703941008646">
+      <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state width="1638" height="254" key="GridCell.Tab.0.center/0.25.1680.954@0.25.1680.954" timestamp="1703269365245" />
-    <state width="1638" height="254" key="GridCell.Tab.0.center/0.25.1680.956@0.25.1680.956" timestamp="1703205624161" />
+    <state width="1638" height="253" key="GridCell.Tab.0.center/0.25.1680.954@0.25.1680.954" timestamp="1703888154326" />
+    <state width="1638" height="253" key="GridCell.Tab.0.center/0.25.1680.956@0.25.1680.956" timestamp="1703941008646" />
     <state width="1638" height="255" key="GridCell.Tab.0.center/0.25.1680.959@0.25.1680.959" timestamp="1703520866865" />
-    <state width="1638" height="255" key="GridCell.Tab.0.left" timestamp="1703520866865">
-      <screen x="0" y="25" width="1680" height="959" />
+    <state width="1638" height="253" key="GridCell.Tab.0.left" timestamp="1703941008642">
+      <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state width="1638" height="254" key="GridCell.Tab.0.left/0.25.1680.954@0.25.1680.954" timestamp="1703269365243" />
-    <state width="1638" height="254" key="GridCell.Tab.0.left/0.25.1680.956@0.25.1680.956" timestamp="1703205624161" />
+    <state width="1638" height="253" key="GridCell.Tab.0.left/0.25.1680.954@0.25.1680.954" timestamp="1703888154325" />
+    <state width="1638" height="253" key="GridCell.Tab.0.left/0.25.1680.956@0.25.1680.956" timestamp="1703941008642" />
     <state width="1638" height="255" key="GridCell.Tab.0.left/0.25.1680.959@0.25.1680.959" timestamp="1703520866865" />
-    <state width="1638" height="255" key="GridCell.Tab.0.right" timestamp="1703520866866">
-      <screen x="0" y="25" width="1680" height="959" />
+    <state width="1638" height="253" key="GridCell.Tab.0.right" timestamp="1703941008647">
+      <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state width="1638" height="254" key="GridCell.Tab.0.right/0.25.1680.954@0.25.1680.954" timestamp="1703269365245" />
-    <state width="1638" height="254" key="GridCell.Tab.0.right/0.25.1680.956@0.25.1680.956" timestamp="1703205624162" />
+    <state width="1638" height="253" key="GridCell.Tab.0.right/0.25.1680.954@0.25.1680.954" timestamp="1703888154327" />
+    <state width="1638" height="253" key="GridCell.Tab.0.right/0.25.1680.956@0.25.1680.956" timestamp="1703941008647" />
     <state width="1638" height="255" key="GridCell.Tab.0.right/0.25.1680.959@0.25.1680.959" timestamp="1703520866866" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/resume$test.coverage" NAME="test Coverage Results" MODIFIED="1703520796914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/resume" />
+    <state x="440" y="240" key="Vcs.Push.Dialog.v2" timestamp="1703930077283">
+      <screen x="0" y="25" width="1680" height="958" />
+    </state>
+    <state x="440" y="239" key="Vcs.Push.Dialog.v2/0.25.1680.954@0.25.1680.954" timestamp="1703883978103" />
+    <state x="440" y="240" key="Vcs.Push.Dialog.v2/0.25.1680.958@0.25.1680.958" timestamp="1703930077283" />
   </component>
 </project>
